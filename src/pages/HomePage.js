@@ -1,13 +1,13 @@
 import React from "react";
 import Counter from "../Counter";
-import LoginShowmodal from "../LoginShowmodal";
+import LoginShowModal from "../LoginShowModal";
 
 function HomePage() {
   return (
     <div>
       <div>
         <Counter />
-        <LoginShowmodal />
+        <LoginShowModal />
       </div>
       <img
         src={require("../images/679db61ec05330a482f8ca16488cf145.gif")}
