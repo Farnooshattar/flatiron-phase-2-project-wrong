@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import CatCollection from "../CatCollection";
-import CatAddForm from "../CatAddForm";
-import CatSearch from "../CatSearch";
+import CatCollection from "../components/CatCollection";
+import CatAddForm from "../components/CatAddForm";
+import CatSearch from "../components/CatSearch";
 import { Link } from "react-router-dom";
 import { Container } from "semantic-ui-react";
 

@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import CatPage from "./pages/CatPage";
-import TicTacToe from "./pages/TicTacToe";
-import DisplayCat from "./pages/DisplayCat";
+import HomePage from "../pages/HomePage";
+import CatPage from "../pages/CatPage";
+import TicTacToe from "../pages/TicTacToe";
+import DisplayCat from "../pages/DisplayCat";
 import CatNavBar from "./CatNavBar";
 
 function App() {

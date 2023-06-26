@@ -1,6 +1,6 @@
 import React from "react";
-import Counter from "../Counter";
-import LoginShowModal from "../LoginShowModal";
+import Counter from "../components/Counter";
+import LoginShowModal from "../components/LoginShowModal";
 
 function HomePage() {
   return (
